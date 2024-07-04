@@ -1,0 +1,6 @@
+framework module Pods_XTodo_XTodoUITests {
+  umbrella header "Pods-XTodo-XTodoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
